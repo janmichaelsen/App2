@@ -23,4 +23,5 @@ Requisitos:
 Integrantes:
 
 Felipe Álvarez Mercado - felipealvarez@alumnos.uai.cl
+
 Jan Michaelsen Thiel - jmichaelsen@alumnos.uai.cl
